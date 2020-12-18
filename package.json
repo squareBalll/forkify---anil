@@ -1,0 +1,20 @@
+{
+  "name": "forkiy",
+  "version": "1.0.0",
+  "description": "",
+  "default": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": " parcel build index.html --dist-dir ./dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0-nightly.476",
+    "sass": "^1.30.0"
+  },
+  "dependencies": {
+    "fractional": "^1.0.0",
+    "fractions": "^1.0.2"
+  }
+}
