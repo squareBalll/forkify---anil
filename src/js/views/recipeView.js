@@ -12,6 +12,8 @@ import icons from "url:../../img/icons.svg";
 
 
 
+
+
 // Sonradan bunu view klasının içine alacağız. Her bu tür viewlerin hepsi kendine ait bazı methodlara
 // sahip olacak bu yüzden burda class kullanmak en mantıklısı.
  class RecipeView extends View {
